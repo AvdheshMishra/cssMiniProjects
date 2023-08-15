@@ -1,0 +1,31 @@
+.color-title{
+    font-weight: normal;
+}
+#Red {
+    color: red;
+}
+#Blue {
+    color: blue;
+}
+#Saffron {
+    color: orangered;
+}
+#Black {
+    color: black;
+}
+#Green {
+    color: green;
+}
+#Gray {
+    color: gray;
+}
+#Orange {
+    color: orange;
+}
+img {
+    height: 200;
+    width: 200;
+}
+* {
+    text-align: center;
+}
