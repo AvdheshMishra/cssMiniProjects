@@ -1,0 +1,11 @@
+div {
+    display: inline-block;
+}
+
+.left-card {
+    float: left;
+}
+
+.right-card {
+    float: right;
+}
